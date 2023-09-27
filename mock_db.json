@@ -1,0 +1,684 @@
+{
+  "target": {
+    "age": "any",
+    "gender": "",
+    "personality": "any"
+  },
+  "items": [
+    {
+      "id": 1,
+      "title": "Waterproof Raincoat",
+      "gender": "non-binary",
+      "tags": ["city", "family", "rain", "must-have"]
+    },
+    {
+      "id": 2,
+      "title": "Personalised Friendship Mug",
+      "gender": "non-binary",
+      "tags": ["friends", "personalised", "beverages", "foods"]
+    },
+    {
+      "id": 3,
+      "title": "Cozy Slippers",
+      "gender": "non-binary",
+      "tags": ["family", "clothing", "must-have"]
+    },
+    {
+      "id": 4,
+      "title": "Personalised Jewelry Box",
+      "gender": "female",
+      "tags": ["accessories", "friends", "personalized", "jewelry", "lifestyle"]
+    },
+    {
+      "id": 5,
+      "title": "Astronomy Telescope",
+      "gender": "non-binary",
+      "tags": ["family", "science", "stargazing", "lifestyle"]
+    },
+    {
+      "id": 6,
+      "title": "Luxury Watch",
+      "gender": "male",
+      "tags": ["accessories", "lovers", "family", "lifestyle"]
+    },
+    {
+      "id": 7,
+      "title": "Classic Guitar",
+      "gender": "non-binary",
+      "tags": ["family", "toys", "music", "creative", "lifestyle"]
+    },
+    {
+      "id": 8,
+      "title": "Luxury Spa Gift Set",
+      "gender": "female",
+      "tags": ["relaxation", "self-care", "lovers", "family", "lifestyle"]
+    },
+    {
+      "id": 9,
+      "title": "Leather Wallet",
+      "gender": "male",
+      "tags": ["family", "must-have"]
+    },
+    {
+      "id": 10,
+      "title": "Leather Portfolio Folder",
+      "gender": "male",
+      "tags": ["work", "office", "professional", "colleagues", "must-have"]
+    },
+    {
+      "id": 11,
+      "title": "Vegan Treats Gift Box",
+      "gender": "female",
+      "tags": ["family", "foods", "vegan"]
+    },
+    {
+      "id": 12,
+      "title": "Yoga and Meditation Kit",
+      "gender": "non-binary",
+      "tags": ["health", "wellness", "lifestyle"]
+    },
+    {
+      "id": 13,
+      "title": "Gourmet Biscuits",
+      "gender": "male",
+      "tags": ["biscuits", "sweets", "treats", "foods"]
+    },
+    {
+      "id": 14,
+      "title": "Bluetooth Speaker",
+      "gender": "non-binary",
+      "tags": ["family", "electronics", "music", "must-have"]
+    },
+    {
+      "id": 15,
+      "title": "Scented Bath Bombs Gift Set",
+      "gender": "female",
+      "tags": ["relaxation", "friends", "self-care", "spa", "lifestyle"]
+    },
+
+    {
+      "id": 16,
+      "title": "Hot Cocoa Gift Basket",
+      "gender": "non-binary",
+      "tags": ["family", "beverages", "Christmas", "foods"]
+    },
+    {
+      "id": 17,
+      "title": "Car Care Kit",
+      "gender": "male",
+      "tags": ["automotive", "car maintenance", "friends", "must-have"]
+    },
+    {
+      "id": 18,
+      "title": "Scented Candle",
+      "gender": "female",
+      "tags": ["friends", "relaxation", "home", "must-have"]
+    },
+    {
+      "id": 19,
+      "title": "Yoni Massage Experience",
+      "gender": "female",
+      "tags": ["relaxation", "self-care", "lovers", "family", "lifestyle"]
+    },
+    {
+      "id": 20,
+      "title": "Video Game Gift Card",
+      "gender": "non-binary",
+      "tags": ["friends", "gaming", "entertainment", "lifestyle"]
+    },
+    {
+      "id": 21,
+      "title": "Customised Photo Album",
+      "gender": "non-binary",
+      "tags": ["friends", "memories", "personalised", "must-have"]
+    },
+    {
+      "id": 22,
+      "title": "Luxury Scented Hand Cream Set",
+      "gender": "female",
+      "tags": ["self-care", "beauty", "luxury", "colleagues", "must-have"]
+    },
+    {
+      "id": 23,
+      "title": "High-Quality Pocket Knife",
+      "gender": "male",
+      "tags": ["tools", "outdoor", "camping", "friends", "must-have"]
+    },
+    {
+      "id": 24,
+      "title": "Portable Grill Set",
+      "gender": "male",
+      "tags": ["outdoor", "grilling", "friends", "must-have"]
+    },
+    {
+      "id": 25,
+      "title": "Spa Day Voucher",
+      "gender": "non-binary",
+      "tags": ["family", "lovers", "hygiene", "lifestyle"]
+    },
+    {
+      "id": 26,
+      "title": "Scooter",
+      "gender": "male",
+      "tags": ["family", "toys", "outdoor", "fun", "lifestyle"]
+    },
+    {
+      "id": 27,
+      "title": "Elegant Pearl Jewelry Set",
+      "gender": "female",
+      "tags": ["accessories", "lovers", "family", "lifestyle"]
+    },
+    {
+      "id": 28,
+      "title": "Funny Office Desk Sign",
+      "gender": "non-binary",
+      "tags": ["colleagues", "office humor", "decor", "must-have"]
+    },
+    {
+      "id": 29,
+      "title": "Fishing Experience Gift Card",
+      "gender": "male",
+      "tags": ["experience", "family", "trip", "lifestyle"]
+    },
+    {
+      "id": 30,
+      "title": "Smartphone Stand and Charging Dock",
+      "gender": "male",
+      "tags": ["electronics", "office", "gadget", "colleagues", "must-have"]
+    },
+    {
+      "id": 31,
+      "title": "Beer Brewing Kit",
+      "gender": "male",
+      "tags": ["beverages", "beer", "hobby", "colleagues", "lifestyle"]
+    },
+    {
+      "id": 32,
+      "title": "Gourmet Wine and Cheese Basket",
+      "gender": "non-binary",
+      "tags": ["beverages", "family", "foods"]
+    },
+    {
+      "id": 33,
+      "title": "Elegant Silk Scarf",
+      "gender": "female",
+      "tags": ["accessories", "fashion", "colleagues", "lifestyle"]
+    },
+    {
+      "id": 34,
+      "title": "Classic Pocket Watch",
+      "gender": "male",
+      "tags": ["accessories", "friends", "vintage", "lifestyle"]
+    },
+    {
+      "id": 35,
+      "title": "Customised Mouse Pad",
+      "gender": "non-binary",
+      "tags": ["colleagues", "office", "personalised", "must-have"]
+    },
+    {
+      "id": 36,
+      "title": "Gourmet Chocolate Gift Basket",
+      "gender": "non-binary",
+      "tags": ["family", "foods", "chocolate"]
+    },
+    {
+      "id": 37,
+      "title": "Chocolate Truffle Gift Box",
+      "gender": "non-binary",
+      "tags": ["family", "foods", "chocolate"]
+    },
+    {
+      "id": 38,
+      "title": "Fishing Rod",
+      "gender": "male",
+      "tags": ["family", "fishing", "sports", "lifestyle"]
+    },
+    {
+      "id": 39,
+      "title": "Coffee mug warmer for desk",
+      "gender": "male",
+      "tags": ["colleagues", "office", "decor", "must-have"]
+    },
+    {
+      "id": 40,
+      "title": "Toolbox Gift Set",
+      "gender": "male",
+      "tags": ["tools", "DIY", "friends", "must-have"]
+    },
+    {
+      "id": 41,
+      "title": "Collection of Exotic Spices",
+      "gender": "non-binary",
+      "tags": ["foods", "spices", "family"]
+    },
+    {
+      "id": 42,
+      "title": "Premium Wine or Whiskey Tasting",
+      "gender": "male",
+      "tags": ["beverages", "tasting", "friends", "foods"]
+    },
+    {
+      "id": 43,
+      "title": "Essential oils box",
+      "gender": "female",
+      "tags": ["family", "home", "natural", "lifestyle"]
+    },
+    {
+      "id": 44,
+      "title": "Fujifilm Camera",
+      "gender": "non-binary",
+      "tags": ["family", "camera", "art", "creative", "lifestyle"]
+    },
+    {
+      "id": 45,
+      "title": "Shungite Necklace",
+      "gender": "non-binary",
+      "tags": ["accessories", "family", "lifestyle"]
+    },
+    {
+      "id": 46,
+      "title": "Elegant Pen Set",
+      "gender": "female",
+      "tags": ["office", "colleagues", "writing", "li"]
+    },
+    {
+      "id": 47,
+      "title": "Elegant Crystal Earrings",
+      "gender": "female",
+      "tags": ["accessories", "fashion", "jewelry", "colleagues", "lifestyle"]
+    },
+    {
+      "id": 48,
+      "title": "Gourmet Tea Sampler Gift Box",
+      "gender": "female",
+      "tags": ["beverages", "tea", "gourmet", "colleagues", "foods"]
+    },
+    {
+      "id": 49,
+      "title": "Elegant Foulard",
+      "gender": "female",
+      "tags": ["accessories", "fashion", "family", "lifestyle"]
+    },
+
+    {
+      "id": 50,
+      "title": "Gourmet Wine and Cheese Basket",
+      "gender": "non-binary",
+      "tags": ["foods", "beverages", "family"]
+    },
+    {
+      "id": 51,
+      "title": "Leather Gloves",
+      "gender": "male",
+      "tags": ["accessories", "fashion", "lifestyle"]
+    },
+    {
+      "id": 52,
+      "title": "DIOR Bracelet",
+      "gender": "female",
+      "tags": ["accessories", "lovers", "family", "lifestyle"]
+    },
+    {
+      "id": 53,
+      "title": "Wood Earrings",
+      "gender": "non-binary",
+      "tags": ["accessories", "fashion", "jewelry", "friends", "lifestyle"]
+    },
+    {
+      "id": 54,
+      "title": "Swarovski Butterfly Pendant",
+      "gender": "female",
+      "tags": ["accessories", "family", "lifestyle"]
+    },
+    {
+      "id": 55,
+      "title": "BMX Bike for Boy",
+      "gender": "male",
+      "tags": ["family", "bike", "outdoor", "fun", "kids", "lifestyle"]
+    },
+    {
+      "id": 56,
+      "title": "Professional Leather Planner",
+      "gender": "female",
+      "tags": ["office", "organisation", "planner", "colleagues", "must-have"]
+    },
+    {
+      "id": 57,
+      "title": "Aromatherapy Essential Oil Diffuser",
+      "gender": "female",
+      "tags": ["relaxation", "self-care", "aromatherapy", "lifestyle"]
+    },
+    {
+      "id": 58,
+      "title": "Full body massage experience",
+      "gender": "non-binary",
+      "tags": ["family", "relax", "lifestyle"]
+    },
+    {
+      "id": 59,
+      "title": "Fitness Watch",
+      "gender": "male",
+      "tags": ["watch", "sports", "accessory", "family", "lifestyle"]
+    },
+    {
+      "id": 60,
+      "title": "Festive Baking Kit",
+      "gender": "female",
+      "tags": ["family", "baking", "Christmas", "foods"]
+    },
+    {
+      "id": 61,
+      "title": "Pizza Cutting Set",
+      "gender": "male",
+      "tags": ["family", "italy", "must-have"]
+    },
+    {
+      "id": 62,
+      "title": "Cooking Class Voucher",
+      "gender": "non-binary",
+      "tags": ["friends", "cooking", "culinary", "lifestyle"]
+    },
+    {
+      "id": 63,
+      "title": "Outdoor Adventure Experience",
+      "gender": "non-binary",
+      "tags": ["friends", "adventure", "outdoor", "lifestyle"]
+    },
+    {
+      "id": 64,
+      "title": "Subscription to Spotify Premium",
+      "gender": "non-binary",
+      "tags": ["friends", "entertainment", "music", "lifestyle"]
+    },
+    {
+      "id": 65,
+      "title": "Gourmet Chocolate and Wine Pairing Set",
+      "gender": "female",
+      "tags": ["foods", "friends", "chocolate", "beverages", "gourmet"]
+    },
+    {
+      "id": 66,
+      "title": "Board Game Night Set",
+      "gender": "non-binary",
+      "tags": ["friends", "entertainment", "games", "lifestyle"]
+    },
+    {
+      "id": 67,
+      "title": "Botanical Print Silk Scarf",
+      "gender": "female",
+      "tags": ["accessories", "fashion", "silk", "scarf", "lifestyle"]
+    },
+    {
+      "id": 68,
+      "title": "Reusable Take Away Cup",
+      "gender": "non-binary",
+      "tags": ["tea", "friends", "lifestyle"]
+    },
+    {
+      "id": 69,
+      "title": "Blanket Hoodie",
+      "gender": "female",
+      "tags": ["clothes", "winter", "family", "must-have"]
+    },
+    {
+      "id": 70,
+      "title": "Tool Set for DIY Enthusiasts",
+      "gender": "male",
+      "tags": ["tools", "family", "must-have"]
+    },
+    {
+      "id": 71,
+      "title": "Cocktail Glass Set",
+      "gender": "non-binary",
+      "tags": ["beverages", "fun", "party", "friends", "foods"]
+    },
+    {
+      "id": 72,
+      "title": "Virtual Reality Headset",
+      "gender": "male",
+      "tags": ["electronics", "gaming", "kids", "family", "lifestyle"]
+    },
+    {
+      "id": 73,
+      "title": "Kids Camera",
+      "gender": "non-binary",
+      "tags": ["electronics", "photography", "kids", "family", "lifestyle"]
+    },
+    {
+      "id": 74,
+      "title": "Outdoor Camping Gear Set",
+      "gender": "male",
+      "tags": ["outdoor", "adventure", "nature", "family", "lifestyle"]
+    },
+    {
+      "id": 75,
+      "title": "Smartwatch",
+      "gender": "non-binary",
+      "tags": ["electronics", "health", "family", "lifestyle"]
+    },
+    {
+      "id": 76,
+      "title": "Hand-painted Floral Tote Bag",
+      "gender": "female",
+      "tags": ["fashion", "friends", "accessories", "hand-painted", "lifestyle"]
+    },
+    {
+      "id": 77,
+      "title": "Gourmet Chocolate-Making Kit",
+      "gender": "female",
+      "tags": ["chocolate", "family", "foods"]
+    },
+    {
+      "id": 78,
+      "title": "Electric Toothbrush",
+      "gender": "non-binary",
+      "tags": ["electronics", "health", "family", "must-have"]
+    },
+    {
+      "id": 79,
+      "title": "Cooking or Baking Workshop",
+      "gender": "non-binary",
+      "tags": ["cooking", "baking", "culinary", "friends", "lifestyle"]
+    },
+    {
+      "id": 80,
+      "title": "Festive Holiday Sweater",
+      "gender": "non-binary",
+      "tags": ["clothing", "winter", "Christmas", "family", "must-have"]
+    },
+    {
+      "id": 81,
+      "title": "Christmas Ornament Set",
+      "gender": "female",
+      "tags": ["decorations", "Christmas", "family", "mum", "must-have"]
+    },
+    {
+      "id": 82,
+      "title": "Christmas Pajama Family Set",
+      "gender": "non-binary",
+      "tags": ["clothing", "Christmas", "family", "must-have"]
+    },
+    {
+      "id": 83,
+      "title": "Holiday Gift Basket with Assorted Treats",
+      "gender": "non-binary",
+      "tags": ["Christmas", "family", "foods"]
+    },
+    {
+      "id": 84,
+      "title": "Festive Throw Pillow Covers",
+      "gender": "female",
+      "tags": ["decorations", "Christmas", "home", "family", "must-have"]
+    },
+    {
+      "id": 85,
+      "title": "Christmas Stocking Set",
+      "gender": "non-binary",
+      "tags": ["decorations", "Christmas", "family", "must-have"]
+    },
+    {
+      "id": 86,
+      "title": "Artwork Puzzle",
+      "gender": "non-binary",
+      "tags": ["puzzles", "Christmas", "friends", "lifestyle"]
+    },
+    {
+      "id": 87,
+      "title": "Christmas Storybook Collection",
+      "gender": "non-binary",
+      "tags": ["books", "Christmas", "family", "kids", "lifestyle"]
+    },
+    {
+      "id": 88,
+      "title": "Play Station 5",
+      "gender": "non-binary",
+      "tags": ["family", "kids", "gaming", "lifestyle"]
+    },
+    {
+      "id": 89,
+      "title": "Gym Shirt",
+      "gender": "male",
+      "tags": ["family", "sports", "gym", "lifestyle"]
+    },
+    {
+      "id": 90,
+      "title": "Reusable Water Bottle for the gym",
+      "gender": "non-binary",
+      "tags": ["family", "sports", "gym", "lifestyle"]
+    },
+    {
+      "id": 91,
+      "title": "Vinyl Player",
+      "gender": "male",
+      "tags": ["family", "music", "electronics", "lifestyle"]
+    },
+    {
+      "id": 92,
+      "title": "Personalised Music Playlist Vinyl Record",
+      "gender": "male",
+      "tags": ["music", "personalised", "friends", "memories", "lifestyle"]
+    },
+    {
+      "id": 93,
+      "title": "Craft Beer Tasting Kit",
+      "gender": "male",
+      "tags": ["beverages", "family", "foods"]
+    },
+    {
+      "id": 94,
+      "title": "Kids Bike with Training Wheels",
+      "gender": "non-binary",
+      "tags": ["sports", "family", "kids", "lifestyle"]
+    },
+    {
+      "id": 95,
+      "title": "Jamaican Coffee Pods",
+      "gender": "male",
+      "tags": ["beverages", "colleagues", "office", "foods"]
+    },
+    {
+      "id": 96,
+      "title": "Leather Purse",
+      "gender": "female",
+      "tags": ["clothing", "friends", "office", "elegant", "lifestyle"]
+    },
+    {
+      "id": 97,
+      "title": "Advent Calendar",
+      "gender": "non-binary",
+      "tags": ["foods", "christmas", "chocolate", "tea", "foods"]
+    },
+    {
+      "id": 98,
+      "title": "Himalayan Salt Lamp",
+      "gender": "non-binary",
+      "tags": ["home", "family", "cozy", "bedroom", "must-have"]
+    },
+    {
+      "id": 99,
+      "title": "Retro Gaming Console",
+      "gender": "male",
+      "tags": ["video game", "family", "vintage", "lifestyle"]
+    },
+    {
+      "id": 100,
+      "title": "TRX Suspension Training",
+      "gender": "non-binary",
+      "tags": ["sports", "family", "health", "lifestyle"]
+    },
+    {
+      "id": 101,
+      "title": "Perfume",
+      "gender": "non-binary",
+      "tags": ["beauty", "family", "lovers", "lifestyle"]
+    },
+    {
+      "id": 102,
+      "title": "Romantic SPA Experience",
+      "gender": "female",
+      "tags": ["home", "family", "SPA", "hotel", "couple", "lifestyle"]
+    },
+    {
+      "id": 103,
+      "title": "Xmas Candle Set",
+      "gender": "female",
+      "tags": ["home", "family", "decor", "must-have"]
+    },
+    {
+      "id": 104,
+      "title": "Romantic Cruise Experience",
+      "gender": "female",
+      "tags": ["home", "family", "lovers", "trip", "lifestyle"]
+    },
+    {
+      "id": 105,
+      "title": "Artisanal Handcrafted Candles",
+      "gender": "female",
+      "tags": ["decor", "candles", "friends", "handcrafted", "must-have"]
+    },
+    {
+      "id": 106,
+      "title": "Astrology Birth Chart Professional Reading",
+      "gender": "non-binary",
+      "tags": ["astrology", "family", "stars", "lifestyle"]
+    },
+    {
+      "id": 107,
+      "title": "Vintage Photography Collection Book",
+      "gender": "non-binary",
+      "tags": ["photography", "friends", "art", "history", "lifestyle"]
+    },
+    {
+      "id": 108,
+      "title": "Luxury Photo Frame",
+      "gender": "non-binary",
+      "tags": ["photography", "friends", "art", "memories", "must-have"]
+    },
+    {
+      "id": 109,
+      "title": "Xmas Candies Box",
+      "gender": "non-binary",
+      "tags": ["foods", "family", "christmas", "must-have"]
+    },
+    {
+      "id": 110,
+      "title": "Personalised Luxury Umbrella",
+      "gender": "non-binary",
+      "tags": ["city", "family", "rain", "must-have"]
+    },
+    {
+      "id": 111,
+      "title": "Gourmet Olive Oil and Balsamic Vinegar Set",
+      "gender": "female",
+      "tags": ["foods", "gourmet", "culinary", "gift set", "family"]
+    },
+    {
+      "id": 112,
+      "title": "Guinness Dark Chocolate Gift Set",
+      "gender": "male",
+      "tags": ["foods", "chocolate", "man", "family"]
+    }
+  ],
+  "wishlist": []
+}
