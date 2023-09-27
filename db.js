@@ -1,19 +1,24 @@
 const fs = require("fs");
+const path = require("path");
 
 let db = {};
 
+const dbFilePath = path.join(__dirname, "mock_db.json");
+
 const initialise_db = () => {
-  try {
-    let data = fs.readFileSync("mock_db.json");
-    let dataJSON = JSON.parse(data);
-
-    db = dataJSON;
-
-    console.log("db initialised");
-  } catch (error) {
-    console.error("Error reading mock_db.json:", error);
+  if (fs.existsSync(dbFilePath)) {
+    try {
+      const data = fs.readFileSync(dbFilePath, "utf8");
+      db = JSON.parse(data);
+      console.log("Database initialized.");
+    } catch (error) {
+      console.error("Error reading mock_db.json:", error);
+    }
+  } else {
+    console.error("mock_db.json does not exist.");
   }
 };
+
 // Gender
 
 const get_target = () => {
