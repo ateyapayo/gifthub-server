@@ -2,14 +2,16 @@
   "version": 2,
   "builds": [
     {
-      "src": "./index.js",
+      "src": "index.js",
       "use": "@vercel/node"
     }
   ],
   "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/"
-    }
+    { "src": "/api/target", "dest": "index.js" },
+    { "src": "/api/items", "dest": "index.js" },
+    { "src": "/api/items/:id", "dest": "index.js" },
+    { "src": "/api/wishlist", "dest": "index.js" },
+    { "src": "/api/wishlist/:id", "dest": "index.js" },
+    { "src": "/(.*)", "dest": "index.js" }
   ]
 }
